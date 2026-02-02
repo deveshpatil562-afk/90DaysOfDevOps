@@ -98,21 +98,14 @@ chmod 775 /opt/dev-project
 sudo -u tokyo touch /opt/dev-project/tokyo.txt
 
 
-## Commands Output:
-
 ## Commands Output
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/698c2d39-215c-4a29-9465-3983e630502e" />
-</p>
+![Command Output 1](https://github.com/user-attachments/assets/698c2d39-215c-4a29-9465-3983e630502e)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9bc1d54f-975a-4b4f-abbc-aa545434f21d" />
-</p>
+![Command Output 2](https://github.com/user-attachments/assets/9bc1d54f-975a-4b4f-abbc-aa545434f21d)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ea19976d-c89d-43b9-9a17-a998d556780c" />
-</p>
+![Command Output 3](https://github.com/user-attachments/assets/ea19976d-c89d-43b9-9a17-a998d556780c)
+
 
 
 
