@@ -54,6 +54,17 @@ These notes were created during my learning process to understand Linux access c
 
 ![1770020012602](https://github.com/user-attachments/assets/ca78ad70-5ff1-4329-b0f5-f5495b11b38e)
 
+![1770020012237](https://github.com/user-attachments/assets/7d91a5f1-db28-4154-91a7-b93b561a5964)
+
+![1770020012645](https://github.com/user-attachments/assets/2caf2af6-6cb3-46a0-8072-071040130fd2)
+
+![1770020012598](https://github.com/user-attachments/assets/c4d18c13-69ca-4530-a4ad-48b8e42eb913)
+
+![1770020012365](https://github.com/user-attachments/assets/fe77d89e-4ef6-4202-9860-839f77786ef9)
+
+![1770020012529](https://github.com/user-attachments/assets/7f3eadcf-6f9f-43dd-81fd-d883fe544528)
+
+![1770020012887](https://github.com/user-attachments/assets/a155f85b-20ce-455e-a7f6-36f4a5949028)
 
 
 ---
