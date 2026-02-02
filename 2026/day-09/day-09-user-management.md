@@ -100,7 +100,20 @@ sudo -u tokyo touch /opt/dev-project/tokyo.txt
 
 ## Commands Output:
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/698c2d39-215c-4a29-9465-3983e630502e" /> <img src="https://github.com/user-attachments/assets/9bc1d54f-975a-4b4f-abbc-aa545434f21d" /> <img src="https://github.com/user-attachments/assets/ea19976d-c89d-43b9-9a17-a998d556780c" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/0c9aa886-b9cf-4934-8e8c-9da6e031687b" /> <img src="https://github.com/user-attachments/assets/42fd87ee-239f-4a55-9358-8eb728c1c004" /> <img src="https://github.com/user-attachments/assets/be270b13-eb5f-4a50-93fc-a1106d1e2c71" /> <img src="https://github.com/user-attachments/assets/b0d3fb18-1531-4c04-bdf9-13808fc3b2b2" /> </p>
+## Commands Output
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/698c2d39-215c-4a29-9465-3983e630502e" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bc1d54f-975a-4b4f-abbc-aa545434f21d" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea19976d-c89d-43b9-9a17-a998d556780c" />
+</p>
+
 
 
 ## 🎯 Key Learnings
