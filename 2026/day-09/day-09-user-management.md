@@ -50,6 +50,12 @@ These notes were created during my learning process to understand Linux access c
 - `testers`
 - `project-team`
 
+### Commands Output:
+
+![1770020012602](https://github.com/user-attachments/assets/ca78ad70-5ff1-4329-b0f5-f5495b11b38e)
+
+
+
 ---
 
 ## 🔗 User & Group Assignments
@@ -96,23 +102,6 @@ chmod 775 /opt/dev-project
 
 # Validate access as a normal user
 sudo -u tokyo touch /opt/dev-project/tokyo.txt
-
-
-## Commands Output
-
-![1770020012887](https://github.com/user-attachments/assets/ce586f20-d672-481b-a999-be8fca0b7006)
-
-![1770020012529](https://github.com/user-attachments/assets/08550678-b3a1-4ae1-aeac-d3b62b488b8b)
-
-![1770020012365](https://github.com/user-attachments/assets/fbb636f1-8181-40e4-a8ad-5508fd30a552)
-
-![1770020012598](https://github.com/user-attachments/assets/29a3831a-9321-4feb-b22e-1f89423a2cc7)
-
-![1770020012645](https://github.com/user-attachments/assets/48422411-43b6-47f0-b98e-d1166e1bde8b)
-
-![1770020012237](https://github.com/user-attachments/assets/a3b6e9b3-caa8-4cb9-895f-92e2e5342abd)
-
-![1770020012602](https://github.com/user-attachments/assets/4cc1be9f-9f3d-4c45-b567-626ecddd0c30)
 
 
 
