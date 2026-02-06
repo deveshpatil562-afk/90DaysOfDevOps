@@ -1,5 +1,4 @@
 # 💾 Linux Volume Management (LVM) – Hands-On Practice (Day 13)
-
 ### 📂 Storage Check
 ```bash
 lsblk
