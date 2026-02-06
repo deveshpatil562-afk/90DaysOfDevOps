@@ -16,7 +16,6 @@ pvs
 vgs
 lvs
 df -h
-<img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/1c6f4e45-6ce6-494a-b5c3-b72f1504064e" />
 
 
 # Task 2: Create Physical Volume
@@ -41,3 +40,5 @@ df -h /mnt/app-data
 lvextend -L +200M /dev/devops-vg/app-data
 resize2fs /dev/devops-vg/app-data
 df -h /mnt/app-data
+
+<img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/21f639f9-9a76-44b1-8c04-00b6c5be817d" />
