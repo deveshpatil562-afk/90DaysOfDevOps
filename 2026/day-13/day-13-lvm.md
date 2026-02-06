@@ -16,6 +16,8 @@ vgs
 lvs
 df -h
 
+---
+
 <img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/26315be5-1a5c-423b-9116-78434f07eac0" />
 
 
