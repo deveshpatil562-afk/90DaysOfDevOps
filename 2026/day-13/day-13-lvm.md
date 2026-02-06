@@ -40,6 +40,3 @@ lvextend -L +200M /dev/devops-vg/app-data
 resize2fs /dev/devops-vg/app-data
 df -h /mnt/app-data
 
-## Screenshots
-
-<img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/21f639f9-9a76-44b1-8c04-00b6c5be817d" />
