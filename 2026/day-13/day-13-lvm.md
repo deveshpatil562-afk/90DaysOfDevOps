@@ -1,26 +1,41 @@
-# 💾 Linux Volume Management (LVM) – Hands-On Practice (Day 13)
+# Day 13 – Linux Volume Management (LVM)
+
+## 🎯 Objective
+Learn how to use **Linux Logical Volume Management (LVM)** to manage storage flexibly by creating, mounting, and extending logical volumes.
 
 ---
 
-### 📂 Storage Check
+## 🛠️ Challenge Tasks – Commands Used
 ```bash
+# Switch to root user
+sudo -i
+
+# Task 1: Check current storage
 lsblk
 pvs
 vgs
 lvs
 df -h
-<img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/136102c2-c4e5-4983-81f2-6bb069374d3d" />
 
-🔨 Create Physical Volume
+# Task 2: Create Physical Volume
 pvcreate /dev/sdb
 pvs
 
-
-<img width="518" height="171" alt="task2" src="https://github.com/user-attachments/assets/c01c32bd-b037-418c-b98a-6fcfba90a231" />
-
-📦 Create Volume Group
+# Task 3: Create Volume Group
 vgcreate devops-vg /dev/sdb
 vgs
 
+# Task 4: Create Logical Volume
+lvcreate -L 500M -n app-data devops-vg
+lvs
 
-<img width="545" height="130" alt="task3" src="https://github.com/user-attachments/assets/c414a334-2dc8-4d91-81c1-97da32d39038" />
+# Task 5: Format and mount the Logical Volume
+mkfs.ext4 /dev/devops-vg/app-data
+mkdir -p /mnt/app-data
+mount /dev/devops-vg/app-data /mnt/app-data
+df -h /mnt/app-data
+
+# Task 6: Extend the Logical Volume
+lvextend -L +200M /dev/devops-vg/app-data
+resize2fs /dev/devops-vg/app-data
+df -h /mnt/app-data
