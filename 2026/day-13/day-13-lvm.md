@@ -16,6 +16,8 @@ pvs
 vgs
 lvs
 df -h
+<img width="603" height="286" alt="task-1" src="https://github.com/user-attachments/assets/1c6f4e45-6ce6-494a-b5c3-b72f1504064e" />
+
 
 # Task 2: Create Physical Volume
 pvcreate /dev/sdb
